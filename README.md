@@ -1,4 +1,5 @@
 ### Hi there 👋
+##- 🔭 I’m currently working on Finals
 <!--
 **JCCo-Pilot/JCCo-Pilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=JCCo-Pilot&column=9&theme=gruvbox&no-frame=true"/>
