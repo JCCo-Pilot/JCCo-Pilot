@@ -1,6 +1,8 @@
 ### Hi there 👋
 #I'm currently a junior at Seven Lakes High School (slhs)
+
 #Build Director of FRC team 4639
+
 #Mentor for FLL team 67115
 
 <!--
