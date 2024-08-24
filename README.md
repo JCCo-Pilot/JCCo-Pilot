@@ -1,5 +1,5 @@
 ### Hi there 👋
-#If you find this good job i guess
+#I'm currently a junior at Seven Lakes High School (slhs)
 
 <!--
 **JCCo-Pilot/JCCo-Pilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
