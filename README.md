@@ -1,9 +1,11 @@
 ### Hi there 👋
-#I'm currently a junior at Seven Lakes High School (slhs)
+I'm currently a junior at Seven Lakes High School (SLHS)
 
-#Build Director of FRC team 4639
+Build Director of FRC team 4639
 
-#Mentor for FLL team 67115
+Mentor for FLL team 67115
+
+I don't really like coding that much tbh
 
 <!--
 **JCCo-Pilot/JCCo-Pilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
